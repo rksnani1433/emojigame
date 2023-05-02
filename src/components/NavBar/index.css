@@ -1,0 +1,27 @@
+/* Write your code here. */
+.logo-container {
+  display: flex;
+}
+.score-container {
+  display: flex;
+}
+.header-nav {
+  color: white;
+  font-family: Roboto;
+}
+.score {
+  color: white;
+  font-family: Roboto;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.app-navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #9796f0;
+}
+.logo-image {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
